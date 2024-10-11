@@ -11,7 +11,7 @@ const App = () => {
       <Hero />
       <Iphones />
       <Highlights />
-      <Footer />
+      <Footer/>
     </main>
   );
 };
