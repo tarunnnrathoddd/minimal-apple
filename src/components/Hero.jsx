@@ -31,7 +31,7 @@ const Hero = () => {
     // iPhone 15 title entrance
     timeline.to("#title", {
       opacity: 1,
-      duration: 1.5, // Adjusted to be faster
+      duration: 1.7, // Adjusted to be faster
       delay: 1.5,
     });
 
@@ -39,7 +39,7 @@ const Hero = () => {
     gsap.to("#buy-btn", {
       opacity: 1,
       translateY: 0,
-      duration: 1.5, // Adjusted to be faster
+      duration: 1.7, // Adjusted to be faster
       delay: 1.5,
     });
 
